@@ -1,7 +1,7 @@
 
 # TESIS
 
-Trabajo Final Previa a la btención del Título Profecional
+Trabajo Final Previa a la obtención del Título Profecional
 
 ## Integrante
 
